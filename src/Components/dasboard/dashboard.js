@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ProjectList from '../projects/projectList';
+import ProjectList from '../projects/ProjectList';
 
 class Dashboard extends Component {
     render() {
