@@ -1,1 +1,1 @@
-# React-Redux-Setup
+# React-Redux-Firebase
